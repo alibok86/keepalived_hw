@@ -25,6 +25,6 @@
   
 - ![alt text](https://github.com/alibok86/keepalived_hw/blob/main/upload/2-2.png)
   
-- ![alt text](https://github.com/alibok86/keepalived_hw/blob/main/upload/2-3.png)
+
   
 - ![alt text](https://github.com/alibok86/keepalived_hw/blob/main/upload/2-4.png)
